@@ -1,1 +1,7 @@
-{"name": "mascota-hogar-monorepo", "private": true, "workspaces": ["apps/*", "packages/*"]}
+{
+  "name": "mascota-hogar-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
